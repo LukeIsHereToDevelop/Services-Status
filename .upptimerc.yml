@@ -16,8 +16,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://cdn.discordapp.com/avatars/427464899883433984/a_947db4b0e6cd92d8e5ef7af5a50f2dbc.gif
   name: LukeDev's Services Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Services **Status**."
+  introMessage: This **Status Page** provides in **Real-Time** data.
   navbar:
     - title: Status
       href: /

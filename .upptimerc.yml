@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://cdn.discordapp.com/avatars/427464899883433984/a_947db4b0e6cd92d8e5ef7af5a50f2dbc.gif
   name: LukeDev's Services Status
   introTitle: "Services **Status**."
-  introMessage: This **Status Page** provides in **Real-Time** data.
+  introMessage: This **Status Page** provides **Real-Time** data about my services.
   navbar:
     - title: Status
       href: /

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 301,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "time": 346,
+    "timeDay": 346,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/api.lukedev.tk",
     "slug": "api",
     "status": "down",
-    "uptime": "65.88%",
-    "uptimeDay": "65.88%",
-    "uptimeWeek": "65.88%",
-    "uptimeMonth": "65.88%",
-    "uptimeYear": "65.88%",
+    "uptime": "5.32%",
+    "uptimeDay": "5.32%",
+    "uptimeWeek": "5.32%",
+    "uptimeMonth": "5.32%",
+    "uptimeYear": "5.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 10
     }
   }
 ]

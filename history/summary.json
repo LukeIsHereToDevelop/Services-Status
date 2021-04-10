@@ -4,7 +4,7 @@
     "url": "https://lukedev.tk",
     "icon": "https://favicons.githubusercontent.com/lukedev.tk",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 799,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2021-04-10": 56,
+      "2021-04-10": 882,
       "2021-04-09": 1440,
       "2021-04-08": 1440,
       "2021-04-07": 1440,

@@ -22,7 +22,7 @@
     "url": "https://api.lukedev.tk",
     "icon": "https://favicons.githubusercontent.com/api.lukedev.tk",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 783,
     "timeYear": 783,
     "dailyMinutesDown": {
-      "2021-04-12": 58,
+      "2021-04-12": 650,
       "2021-04-11": 1440,
       "2021-04-10": 1440,
       "2021-04-09": 1440,
